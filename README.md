@@ -40,3 +40,16 @@ Son birleştirme ile sıralı diziyi elde et: [8,11,12,16,21,22]
 Big-O gösterimini yazınız.
 
 O(n log n)
+
+
+Binary Search Tree Exercise
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
+
+root: 7
+
+                       
+                       7
+            5                      8
+        1       6                        9
+    0       3
+        2       4
